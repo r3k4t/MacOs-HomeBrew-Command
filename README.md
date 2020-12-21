@@ -25,5 +25,5 @@ or
 
 ### HomeBrew Site Link ###
 
-<a href="https://brew.sh/">https://brew.sh</a>
++ <a href="https://brew.sh/">https://brew.sh</a>
 
